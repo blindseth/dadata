@@ -1,5 +1,14 @@
 #dadata
 
-Workspace for various data projects. Likely to be split apart once more is up here.
+Workspace for various data projects, currently themed on bicycle and public transportation. Likely to be split apart once more is up here.
 
-Currently there's some data for a Seattle bike share program (from kaggle). I'll probably be adding SF bike share data (also from kaggle) and possibly BART data.  
+Here are the URLs for some of the data under consideration: 
+
+-  Seattle Bike Share kaggle url: https://www.kaggle.com/pronto/cycle-share-dataset 
+
+-  SF Bike Share Data kaggle url: https://www.kaggle.com/benhamner/sf-bay-area-bike-share 
+
+-  Austin Bike Survey Data data.world url: https://data.world/rflprr/austin-cycling-survey
+
+-  BART data - I thought from https://data.sfgov.org ..but I'm not seeing it at the moment  
+  
