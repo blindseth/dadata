@@ -10,5 +10,5 @@ Here are the URLs for some of the data under consideration:
 
 -  Austin Bike Survey Data data.world url: https://data.world/rflprr/austin-cycling-survey
 
--  BART data - I thought from https://data.sfgov.org ..but I'm not seeing it at the moment  
+-  BART ridership data: http://www.bart.gov/about/reports/ridership
   
