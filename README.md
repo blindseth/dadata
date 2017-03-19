@@ -13,4 +13,6 @@ Here are the URLs for some of the data under consideration:
 -  BART ridership data: http://www.bart.gov/about/reports/ridership
 
 -  Small Business Association (SBA) loan data for Code for SF project: https://www.sba.gov/about-sba/sba-performance/open-government/foia/frequently-requested-records/sba-7a-504-loan-data-reports
+
+-  Titanic data - another entry from kaggletown: https://www.kaggle.com/c/titanic/data 
   
