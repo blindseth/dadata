@@ -1,6 +1,6 @@
 ## dadata
 
-Workspace for various data projects. Some are themed on bicycle and public transportation. I also have some preliminary Code for SF SBA work in here for now. Likely to be split apart once more is up here.
+Workspace for various data projects. Most of what you'll find here is in the exploratory slash work in progress stage. A chunkslice of this hovers, drone buzzing and looking down at the movement of people in time and space and particularly via bicycles and public transportation. I also have some preliminary Code for SF SBA work in here for now. And the kaggle Titanic stuff too, because why not. Likely to be split apart once more is up here.
 
 Here are the URLs for some of the data under consideration: 
 
