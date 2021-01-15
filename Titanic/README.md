@@ -6,5 +6,6 @@ What's a data-focused repository without one of kaggle's crown jewels?
 
 https://www.kaggle.com/c/titanic/data
 
+---
 
-..bringing this one back from the dead to get a bit more jupyter / pandas practice.. 
+Bringing this one back from the dead to get a bit more jupyter / pandas practice.. 
